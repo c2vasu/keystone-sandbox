@@ -1,19 +1,9 @@
-sydjs.com
-=========
+Keystone For Website
+====================
 
 ## The SydJS Website.
 
 Initially built in two and a half days by the team at [Thinkmill](http://www.thinkmill.com.au) as a demo of what [KeystoneJS](http://keystonejs.com) can do, it's now a showcase for the Sydney Javascript community.
-
-## Get Involved!
-
-Please use the GitHub Issues to log any ideas you have to improve the site, or problems you may come across.
-
-Or if you're feeling more adventurous, go pick an issue and submit a pull request.
-
-Feel free to ask questions about how it works, if you're getting into the code.
-
-If you are part of another meetup group and want to use our site as a basis for your own, that's great, we'd love to hear about it.
 
 ### Coding Guidelines
 
@@ -48,7 +38,7 @@ Before you continue, create a file called `.env` in the root folder of the proje
 
 The only line you **need** to add to your `.env` file is a valid `CLOUDINARY_URL`. To get one of these, sign up for a free account at [Cloudinary](http://cloudinary.com) and paste the environment variable if gives you into your `.env` file. It should look something like this:
 
-	CLOUDINARY_URL=cloudinary://12345:abcde@cloudname
+	CLOUDINARY_URL=cloudinary://495237338364511:qMR2-QMxqnUP84cTKDY7XNVUs_0@dg7njpx7e
 
 ### Running SydJS
 
@@ -72,4 +62,3 @@ The first time you run the site, the homepage will warn you that it expects ther
 
 You'll probably want to add some other content too (blog post, members, etc) to get all the pages looking right.
 
-... happy hacking!
